@@ -1,0 +1,2 @@
+# Detecting-real-estate-price
+Esteem villas and co want to know the price of house in Bangalore area for their interest in buying and selling the property so they asked me to predict the price of house using the features of the data collected from there . We need to calculate price according to the feature that we can take like if the customer wants 2 bedroom and 1500 area / sqft and location of his/her need we need to deliver approximate price of that house task is to build a model that can predict the price of the house that the customer needs
